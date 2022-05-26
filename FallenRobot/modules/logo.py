@@ -239,6 +239,11 @@ LOGO_LINKS            = ["https://telegra.ph/file/d1838efdafce9fe611d0c.jpg",
                          "https://telegra.ph/file/1a4f50dd1e4ec9f04bfa1.jpg",
                          "https://telegra.ph/file/99b56305fa9c50767f574.jpg",
                          "https://telegra.ph/file/0859e0104c671bc9b6b7d.jpg",
+                         "https://telegra.ph/file/ad4c875aeb399c151937e.jpg",
+                         "https://telegra.ph/file/be3dd021174e647093cb3.jpg",
+                         "https://telegra.ph/file/80fe84e7d55aa510a35f9.jpg",
+                         "https://telegra.ph/file/1549d35db3c6c9f14615b.jpg",
+                         "https://telegra.ph/file/fe3a5c31e92800de2582e.jpg",
                          "https://telegra.ph/file/b3af2980caf7040702171.jpg",
                          "https://telegra.ph/file/14be160df3b84c59e268e.jpg",
                          "https://telegra.ph/file/b958155e1e8e9ab9a0416.jpg",
@@ -252,7 +257,7 @@ LOGO_LINKS            = ["https://telegra.ph/file/d1838efdafce9fe611d0c.jpg",
 async def lego(event):
  quew = event.pattern_match.group(1)
  if event.sender_id != OWNER_ID and not quew:
-  await event.reply('`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <ANONYMOUS>`')
+  await event.reply('`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <Mukesh>`')
   return
  pesan = await event.reply('**ᴄʀᴇᴀᴛɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ʟᴏɢᴏ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ sᴇᴄ​...**')
  try:
@@ -276,18 +281,20 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="white", stroke_width=1, stroke_fill="black")
     fname = "fallen.png"
     img.save(fname, "png")
-    await telethn.send_file(event.chat_id, file=fname, caption = f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ")         
+    await telethn.send_file(event.chat_id, file=fname, caption = f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [ᴍᴜᴋʜᴜsʜɪ ✘ ʀᴏʙᴏᴛ](https://t.me/groupcontrollertgbot")         
     await pesan.delete()
     if os.path.exists(fname):
             os.remove(fname)
  except Exception as e:
-    await event.reply(f'ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @DevilsHeavenMF')
+    await event.reply(f'ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @worldwide_friend_zone')
 
 
 __mod_name__ = "Lᴏɢᴏ​"
 
 __help__ = """
-Fallen Robot can create some beautiful and attractive logo for your profile pics.
+Mukhushi Robot can create some beautiful and attractive logo for your profile pics.
 
 ❍ /logo (Text) *:* Create a logo of your given text with random view.
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
