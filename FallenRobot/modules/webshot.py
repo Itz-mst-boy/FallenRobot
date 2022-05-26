@@ -5,6 +5,8 @@ from FallenRobot import pbot as app
 from FallenRobot.utils.errors import capture_err
 __help__ = """
 » /webss *:* Sends the screenshot of the given url.
+ ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
 __mod_name__ = "Wᴇʙsʜᴏᴛ​​"
 
