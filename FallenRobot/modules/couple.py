@@ -79,6 +79,8 @@ __help__ = """
 Choose couples in your chat
 
  ❍ /couple *:* Choose 2 users and send their name as couples in your chat.
+   ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 __mod_name__ = "Cᴏᴜᴘʟᴇ​"
