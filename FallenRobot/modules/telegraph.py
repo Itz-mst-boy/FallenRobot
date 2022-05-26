@@ -83,6 +83,8 @@ __help__ = """
 I can upload files to Telegraph
  ❍ /tm :Get Telegraph Link Of Replied Media
  ❍ /tt :Get Telegraph Link of Replied Text
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
 
 __mod_name__ = "T-Gʀᴀᴘʜ"
