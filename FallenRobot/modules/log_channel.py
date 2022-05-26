@@ -202,6 +202,8 @@ Setting the log channel is done by:
 ❍ adding the bot to the desired channel (as an admin!)
 ❍ sending /setlog in the channel
 ❍ forwarding the /setlog to the group
+ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
     __mod_name__ = "Lᴏɢs​"
