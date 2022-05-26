@@ -11,6 +11,8 @@ __help__ = """
 I will give information about github profile 
 
  ❍ /github <username>*:* Get information about a GitHub user.
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 @pbot.on_message(filters.command('github'))
