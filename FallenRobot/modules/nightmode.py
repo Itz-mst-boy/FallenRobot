@@ -95,7 +95,7 @@ async def job_close():
     for warner in ws_chats:
         try:
             await tbot.send_message(
-              int(warner.chat_id), "12:00 Am, Group Is Closing Till 6 Am. Night Mode Started ! \n**Powered By @Mastermind_network_official**"
+              int(warner.chat_id), "12:00 Am, Group Is Closing Till 6 Am. Night Mode Started ! \n**Powered By @GroupControllertgbot**"
             )
             await tbot(
             functions.messages.EditChatDefaultBannedRightsRequest(
@@ -117,7 +117,7 @@ async def job_open():
     for warner in ws_chats:
         try:
             await tbot.send_message(
-              int(warner.chat_id), "06:00 Am, Group Is Opening.\n**Powered By @Mastermind_network_official**"
+              int(warner.chat_id), "06:00 Am, Group Is Opening.\n**Powered By @Groupcontrollertgbot**"
             )
             await tbot(
             functions.messages.EditChatDefaultBannedRightsRequest(
@@ -139,8 +139,6 @@ __help__ = """
  ❍ /rmnight*:* Removes Group From NightMode Chats
 
 *Note:* Night Mode chats get Automatically closed at 12 am(IST) and Automatically openned at 6 am(IST) to Prevent Night Spams.
-    ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
-   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 __mod_name__ = "Nɪɢʜᴛ​"
