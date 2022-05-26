@@ -26,4 +26,7 @@ __help__ = """
  Writes the given text on white page with a pen 🖊
 
 ❍ /write <text> *:* Writes the given text.
+
+ ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @ItZ\_mSt\_bOy
  """
