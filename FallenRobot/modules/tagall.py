@@ -114,4 +114,6 @@ __help__ = """
 ──「 Only for Admins 」──
 
 ❍ /tagall or @all '(reply to message or add another message) To mention all members in your group, without exception.'
+ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
