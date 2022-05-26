@@ -99,6 +99,7 @@ __help__ = """
 *Remove Deleted Accounts*
  ❍ /zombies *:* Starts searching for deleted accounts in the group.
  ❍ /zombies clean *:* Removes the deleted accounts from the group.
+ ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind_network_official
 """
 
 
