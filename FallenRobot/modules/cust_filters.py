@@ -637,6 +637,9 @@ doin?
 *Note*: Filters also support markdown formatters like: {first}, {last} etc.. and buttons.
 Check ❍ /markdownhelp to know more!
 
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
+
 """
 
 __mod_name__ = "Fɪʟᴛᴇʀs"
