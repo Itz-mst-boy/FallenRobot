@@ -39,6 +39,8 @@ __help__ = """
 Sends you the gps location of the given query...
 
  ❍ /gps <location>*:* Get gps location.
+ ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 __mod_name__ = "Gᴘs"
