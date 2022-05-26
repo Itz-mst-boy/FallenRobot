@@ -484,6 +484,8 @@ __help__ = """
  ❍ /blue *:* Change the text into blue text.
  ❍ /latin *:* Change the text into latin text.
  ❍ /lined *:* Change the text into lined text.
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
  """
 __mod_name__ = "Fᴏɴᴛ Eᴅɪᴛᴏʀ"
 
