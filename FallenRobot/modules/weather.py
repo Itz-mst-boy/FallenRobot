@@ -95,6 +95,8 @@ I can find weather of all cities
  ❍ /weather <city>*:* Get weather info in a particular place.
  ❍ /wttr <city>*:* Advanced weather module, usage same as /weather
  ❍ /wttr moon*:* Get the current status of moon
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
 
 __mod_name__ = "Wᴇᴀᴛʜᴇʀ"
