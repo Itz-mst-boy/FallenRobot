@@ -74,4 +74,6 @@ __help__ = """
  Pastes the given file and shows you the result
 
  ❍ /paste *:* Reply to a text file
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
  """
