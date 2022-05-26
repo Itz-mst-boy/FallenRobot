@@ -111,6 +111,8 @@ async def imdb(e):
 
 __help__ = """
  ❍ /imdb <Movie name>*:* Get full info about a movie from [imdb.com](https://m.imdb.com)
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 __mod_name__ = "Iᴍᴅʙ"
