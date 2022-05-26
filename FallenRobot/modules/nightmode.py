@@ -117,7 +117,15 @@ async def job_open():
     for warner in ws_chats:
         try:
             await tbot.send_message(
-              int(warner.chat_id), "06:00 Am, Group Is Opening.\n**Powered By Fallen Robot**"
+              int(warner.chat_id), "━━━━━━ ᴍᴜᴋʜᴜsʜɪ  ʀᴏʙᴏᴛ ━━━━━━\n
+       🌗 ɴɪɢʜᴛ ᴍᴏᴅᴇ ᴇɴᴅᴇᴅ !
+
+  ɢʀᴏᴜᴘ ɪꜱ ᴏᴘᴇɴɪɴɢ. ᴇᴠᴇʀʏᴏɴᴇ
+   ꜱʜᴏᴜʟᴅ ʙᴇ ᴀʙʟᴇ ᴛᴏ ᴍᴇꜱꜱᴀɢᴇ.
+
+     ≛≛       ᴘᴏᴡᴇʀᴇᴅ ʙʏ :      ≛≛\n
+     ≛≛  @mastermind_network_official  ≛≛\n
+━━━━━━  ᴍᴜᴋʜᴜsʜɪ ʀᴏʙᴏᴛ ━━━━━━\n****"
             )
             await tbot(
             functions.messages.EditChatDefaultBannedRightsRequest(
