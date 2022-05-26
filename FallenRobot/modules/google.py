@@ -282,6 +282,8 @@ __help__ = """
  ❍ /img <text>*:* Search Google for images and returns them\nFor greater no. of results specify lim, For eg: `/img hello lim=10`
  ❍ /app <appname>*:* Searches for an app in Play Store and returns its details.
  ❍ /reverse: Does a reverse image search of the media which it was replied to.
- ❍ Anonymous <query>*:* Fallen answers the query
-  💡Ex: `Anonymous where is India?`
+ ❍ Anonymous <query>*:* Mukhushi answers the query
+  💡Ex: `Mukesh where is India?`
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
