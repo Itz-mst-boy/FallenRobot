@@ -347,7 +347,7 @@ if is_module_loaded(FILENAME):
     ❍ /disablemodule <module name>*:* disable all commands in that module
     ❍ /listcmds*:* list all possible toggleable commands 
       ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
-     ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
+       ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
     """
 
     __mod_name__ = "Dɪsᴀʙʟᴇ"
