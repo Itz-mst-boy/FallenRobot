@@ -29,6 +29,8 @@ If you want multiple buttons on the same line, use :same, as such:
 This will create two buttons on a single line, instead of one button per line.
 
 Keep in mind that your message <b>MUST</b> contain some text other than just a button!
+ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 
@@ -100,6 +102,8 @@ Example:
       _OR_
  `/cash 1 usd inr`
 Output: `1.0 USD = 75.505 INR`
+ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 
 """
 
