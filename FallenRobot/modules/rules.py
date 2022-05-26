@@ -123,6 +123,8 @@ __help__ = """
 *Admins only:*
  ❍ /setrules <your rules here>*:* set the rules for this chat.
  ❍ /clearrules*:* clear the rules for this chat.
+ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
 
 __mod_name__ = "Rᴜʟᴇs"
