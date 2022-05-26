@@ -87,6 +87,8 @@ __help__ = """
  ❍ /spell*:* while replying to a message, will reply with a grammar corrected version
  ❍ /synonyms <word>*:* Find the synonyms of a word
  ❍ /antonyms <word>*:* Find the antonyms of a word
+   ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 __mod_name__= "Eɴɢʟɪsʜ"
