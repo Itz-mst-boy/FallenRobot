@@ -7,4 +7,6 @@ __help__ = """
 *Converts*
  ❍ /encrypt*:* Encrypts The Given Text
  ❍ /decrypt*:* Decrypts Previously Ecrypted Text
+ ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
