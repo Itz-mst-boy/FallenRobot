@@ -538,6 +538,8 @@ __help__ = """
 *Overall Information about you:*
  ❍ /info*:* get information about a user. 
  ❍ /myinfo*:* Shows info about the user who sent this command.
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
