@@ -19,7 +19,7 @@ from FallenRobot import (
 from FallenRobot import telethn as bot
 
 
-Credit = "AnonymousBoy1025" 
+Credit = "itz_mst_boy" 
 
 
 @register(pattern="^/mmf ?(.*)")
