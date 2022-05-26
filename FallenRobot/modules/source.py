@@ -27,7 +27,7 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "• ᴏᴡɴᴇʀ •", url="https://t.me/itz_mst_boy")
+                        "• ᴏᴡɴᴇʀ •", url="https://t.me/itz_mst_boy")'
                     InlineKeyboardButton(
                         "• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/worldwide_friend_zone")
                 ]
