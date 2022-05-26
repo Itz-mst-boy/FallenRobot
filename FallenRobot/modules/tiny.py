@@ -78,4 +78,6 @@ async def _(event):
 __mod_name__ = "Tɪɴʏ"
 __help__ = """
 ❍ /tiny*:* reply a sticker and see magic
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ :- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-   @iTz\_mSt\_bOy
 """
