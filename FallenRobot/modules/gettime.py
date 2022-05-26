@@ -97,6 +97,8 @@ __help__ = """
  ❍ ⏰ [Timezones list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
 💡 Ex:- /time IN *:* It will shows Indian current time and date..
+    ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
 
 TIME_HANDLER = DisableAbleCommandHandler("time", gettime)
