@@ -417,6 +417,7 @@ will result in restricting that user.
  `6h` = 6 hours
  `3d` = 3 days
  `1w` = 1 week
+  owner @iTz\_mst\_boy
  """
 
 __mod_name__ = "Aɴᴛɪ-Fʟᴏᴏᴅ"
