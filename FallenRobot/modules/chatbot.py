@@ -141,10 +141,10 @@ def list_all_chats(update: Update, context: CallbackContext):
 __help__ = """
 *Admins only Commands*:
   »  /chatbot *:* Shows chatbot control panel
-   ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
-   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
+  ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ:- @Mastermind\_network\_official
+  ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 """
- __mod_name__ = "Cʜᴀᴛʙᴏᴛ"
+  __mod_name__ = "Cʜᴀᴛʙᴏᴛ"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", kuki )
