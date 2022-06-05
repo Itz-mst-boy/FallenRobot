@@ -145,7 +145,7 @@ __help__ = """
   ᴅᴇᴠᴇʟᴏᴘᴇʀ :-  @iTz\_mSt_bOy
 
 """
- __mod_name__ = "ᴄʜᴀᴛʙᴏᴛ​"
+ __mod_name__ = "Cʜᴀᴛʙᴏᴛ​"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", kuki )
