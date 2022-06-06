@@ -50,7 +50,7 @@ openhehe = ChatBannedRights(
     send_games=False,
     send_inline=False,
     send_polls=False,
-    invite_users=True,
+    invite_users=False,
     pin_messages=True,
     change_info=True,
 )
